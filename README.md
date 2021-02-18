@@ -1,4 +1,11 @@
 Oh hey — I'm Barnabas Szabo
 ===============
 
-Welcome in my blog page. Please check me on Welcome to my blog page. Please check me on [LinkedIn](https://www.linkedin.com/in/szabobarnabas/)
+Hello, I am Barnabas, Software Architect, and active full stack
+developer.
+I am a big fan of the modern SPA frontend technologies (mostly
+Angular 2+); Java, and NodeJS based backend (mostly typescript
+support) technologies, and the most innovative area: DevOps,
+Cloud-Computing, Cloud platform.
+
+Please check me on LinkedIn: https://www.linkedin.com/in/szabobarnabas
